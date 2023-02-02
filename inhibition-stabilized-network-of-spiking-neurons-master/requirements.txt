@@ -1,0 +1,8 @@
+Cython
+ipython
+matplotlib
+mpi4py
+nose
+numpy
+scipy
+
